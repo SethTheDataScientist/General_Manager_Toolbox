@@ -1,0 +1,11 @@
+name: General_Manager_Toolbox
+title: General_Manager_Toolbox
+username:
+account: seththedatascientist
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8065268
+bundleId: 8516896
+url: https://seththedatascientist.shinyapps.io/General_Manager_Toolbox/
+asMultiple: FALSE
+asStatic: FALSE
